@@ -1,0 +1,29 @@
+.cotact-banner{
+    background: url('../../../images/contact.jpg');
+    background-size: cover;
+	background-position: center; 
+}
+
+.contact-overlay{
+    background-color: rgba(0, 0, 0, 0.507);
+	padding: 150px 0;
+}
+.contact-overlay h2{
+    font-size: 50px;
+    font-weight: 700;
+}
+.contact-box{
+    background: rgba(47, 228, 219, 0.74);
+    padding: 5px;
+}
+.contact-box span{
+    font-size: 20px;
+}
+.contact-form{
+    background: rgba(47, 228, 219, 0.74);
+    padding: 20px;
+}
+.touch-title{
+    font-size: 20px;
+    font-family: pacifico,cursive!important;
+}

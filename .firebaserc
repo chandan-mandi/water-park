@@ -1,0 +1,9 @@
+{
+  "projects": {
+<<<<<<< HEAD
+    "default": "water-park-website"
+=======
+    "default": "water-kingdom"
+>>>>>>> review-gallery
+  }
+}

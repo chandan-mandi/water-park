@@ -1,0 +1,28 @@
+.banner-main{
+    background: url('../../../images/banner.jpg');
+    background-size: cover;
+	background-position: center;
+}
+.banner-overlay{
+	background-color: rgba(0, 0, 0, 0.61);
+	padding: 100px 0;
+}
+.banner-content h6{
+    font-size: 20px;
+    color: rgb(31, 218, 218);
+    font-family: pacifico,cursive!important;
+}
+.banner-content h1{
+    font-size: 50px;
+    font-weight: 600;
+}
+.banner-content p{
+    font-size: 18px;
+}
+.book-form{
+    background: rgba(241, 219, 219, 0.40);
+    padding: 20px;
+}
+.book-form-input:focus{
+	outline: 1px solid rgb(24, 163, 173);
+}

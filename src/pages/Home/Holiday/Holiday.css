@@ -1,0 +1,23 @@
+.holiday-bg{
+    background-image: url('../../../images/Warner-Slider-900x385.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.holiday-overlay{  
+    /* background-color: rgba(0, 0, 0, 0.507); */
+    background-color: rgba(54, 31, 1, 0.377);
+}
+.holiday-container{
+    padding-top: 100px;
+    padding-bottom: 150px;
+}
+.information-btn{
+    font-weight: bold;
+    color: #fff;
+    background-color: transparent;
+    border: none;
+}
+.information-btn:hover{
+    color: #0dcaf0;
+}

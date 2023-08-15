@@ -1,0 +1,15 @@
+.dropdown-item {
+    padding: 7px;
+}
+.dropdown-item a {
+    text-decoration: none;
+    color: #434343;
+    font-size: 16px;
+    padding: 4px;
+}
+.dropdown-item:active a {
+    color: #fff;
+}
+.dropdown-item:active {
+    border-radius: 5px;
+}

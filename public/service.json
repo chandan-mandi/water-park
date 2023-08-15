@@ -1,0 +1,108 @@
+[
+    {
+      "code": 1,
+      "img" :"https://i.ibb.co/Zc6pq0P/slide6.jpg",
+      "name": "Roller Coaster",
+      "price": "$20",
+      "description": "For the lovers of heart-thumping adventures, the roller coaster will take you on the ride of your life giving you an aerial view of the entire park. "
+    },
+    {
+      "code": 2,
+      "img" :"https://i.ibb.co/kyD9tZQ/santa-maria1.jpg",
+      "name": "Santa Maria",
+      "price": "$30",
+      "description": "Now I know how those poor sailors felt on the seven seas - they must have been SCARED!   "
+    },
+    {
+      "code":3,
+      "img" :"https://i.ibb.co/jbjrjQJ/ride-11.jpg",
+      "name": "Coffee Cup",
+      "price": "$15",
+      "description": "Spin, spin and spin more! Everyone can enjoy the coffee cup for an unforgettable spin. Coffee cups guarantee loads of fun, thrills and impulsive giggles - a great head spinner.  "
+    },
+    {
+      "code": 4,
+      "img" :"https://i.ibb.co/m55bN0v/ride-1.jpg",
+      "name": "Junior Racing",
+      "price": "$17",
+      "description": "Junior racers can be a part of the Xtreme Racing experience, starting from 8 years old. Your children can also celebrate their birthday parties and receive an attractive birthday package. "
+    },
+    {
+      "code": 5,
+      "img" :"https://i.ibb.co/CbLQBG8/ride-4.jpg",
+      "name": "Magic Carpet",
+      "price": "$13",
+      "description": "Bangasaur's favourite. A maximum intensity ride that will knock your socks off. Don't eat before getting on this one! "
+    },
+    {
+      "code": 6,
+      "img" :"https://i.ibb.co/q7Q2FYY/ride-9.jpg",
+      "name": "Giant Splash",
+      "price": "$12",
+      "description": "Oh my God!!! Prepare for the thrill of your life as you experience multiple near-vertical drops into the water, leaving you completely soaked!"
+    },
+    {
+      "code": 7,
+      "img" :"https://i.ibb.co/W0DPfxR/ride-13.jpg",
+      "name": "Izzy Dizzy",
+      "price": "$18",
+      "description": "The spinning arms of the Izzy Dizzy will swing you around until you are completely out of breath! "
+    },
+    {
+      "code": 8,
+      "img" :"https://i.ibb.co/rtVsQvP/ride-7.jpg",
+      "name": "Whirly Bird",
+      "price": "$20",
+      "description": "This classic midway ride is as beautiful to look at as it is to ride. Swing around and around, rising 10 feet in the air as the tower reaches its full height."
+    },
+    {
+      "code": 9,
+      "img" :"https://i.ibb.co/ckkV59S/ride-8.jpg",
+      "name": "Bumper Car",
+      "price": "$20",
+      "description": "Electric Bumper Cars are a big hit at Fantasy Kingdom. Bump this ride up to top of the list on your Fun Guide and get behind the wheel of your car now. Thud!"
+    },
+    {
+      "code": 10,
+      "img" :"https://i.ibb.co/FVQJz9y/ride-2.jpg",
+      "name": "Bumper Boat",
+      "price": "$16",
+      "description": "Look out! Here come the fun-size Bumper Boats for lots of fun on the water."
+    },
+    {
+      "code": 11,
+      "img" :"https://i.ibb.co/BCHRs2B/ride-10.jpg",
+      "name": "9D Cinema",
+      "price": "$25",
+      "description": "9D action cinemas are the next-generation technology offering movie lovers a remarkably intense experience bringing the latest technology in dynamic."
+    },
+    {
+      "code": 12,
+      "img" :"https://i.ibb.co/BC0dhfD/ride-1.jpg",
+      "name": "Wave Pool",
+      "price": "$21",
+      "description": "It's a tidal wave of fun at Wave Pool. Guests can either body surf or float up and down in inner tubes on this huge half-million-gallon wave pool with three-to-four-foot waves."
+    },
+    {
+      "code": 13,
+      "img" :"https://i.ibb.co/FmDbWCB/ride-12.jpg",
+      "name": "Family Pool",
+      "price": "$15",
+      "description": "It's a tidal wave of fun at Wave Pool. Guests can either body surf or float up and down in inner tubes on this huge half-million-gallon wave pool with three-to-four-foot waves."
+    },
+    {
+      "code": 14,
+      "img" :"https://i.ibb.co/ckkV59S/ride-8.jpg",
+      "name": "Multi Slide",
+      "price": "$23",
+      "description": "Three body slides wetly whisk you through thrilling tunnels. Turn through exciting looping courses with tunnels which you offer a milder ride, including a gentle slope that's great for beginners."
+    },
+    {
+      "code": 14,
+      "img" :"https://i.ibb.co/1M1t7qq/ride-6.jpg",
+      "name": "Dancing Zoon",
+      "price": "$20",
+      "description": "This are thrilling tunnels. Turn through exciting looping courses with tunnels which you offer a milder ride, including a gentle slope that's great for beginners."
+    }
+
+  ]

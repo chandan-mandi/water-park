@@ -1,0 +1,30 @@
+.img-gallery .header-text h4 {
+    font-size: 18px;
+    font-weight: 600;
+}
+.img-gallery .header-text h2 {
+    font-size: 35px;
+    font-family: 'IBM Plex Serif', serif;
+    font-weight: 700;
+}
+.img-gallery .header-text p {
+    width: 500px;
+    margin: auto;
+    margin-bottom: 15px;
+}
+.img-gallery img {
+    margin-top: 0 !important;
+    margin-left: 0 !important;
+    /* min-width: 220px; */
+    width: auto !important;
+    /* height: auto !important; */
+}
+@media (max-width: 672px) {
+    .img-gallery .title p {
+        width: auto;
+    }
+    .img-gallery img {
+        width: 378px !important;
+        object-fit: cover;
+    }
+}

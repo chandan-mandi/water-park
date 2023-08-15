@@ -1,0 +1,96 @@
+.box {
+    position: relative;
+    padding: 80px 40px 40px;
+    transition: 0.5s;
+    text-align: center;
+    background: #fff;
+    border-radius: 5px;
+    min-height: 300px;
+}
+.box:hover {
+    /* background: #ff0057; */
+    background: #00b6e4;
+}
+.box p {
+    margin: 0;
+    padding: 0;
+    transition: 0.5s;
+}
+.box h4 {
+    margin: 20px 0 0;
+    padding: 0;
+    transition: 0.5s;
+    font-size: 18px;
+    color: #00b6e4;
+    font-weight: 700;
+    line-height: 20px;
+    text-transform: uppercase;
+}
+.box h4 span {
+    font-weight: 600;
+    font-size: 14px;
+    color: #c5c5c5;
+    transition: 0.5s;
+}
+.box:hover p,
+.box:hover h4,
+.box:hover h4 span {
+    color: #fff;
+}
+.box .imgBox {
+    position: absolute;
+    top: -50px;
+    left: 50%;
+    transform: translateX(-50%);
+    border-radius: 50%;
+    overflow: hidden;
+}
+.box .imgBox img {
+    height: 100px;
+    border-radius: 50%;
+    border: 5px solid #fff;
+}
+.box:before {
+    content: '';
+    position: absolute;
+    top: 20px;
+    right: 40px;
+    width: 80px;
+    height: 80px;
+    background: url("https://cdn-icons-png.flaticon.com/512/25/25418.png");
+    background-size: cover;
+    opacity: 0.05;
+    pointer-events: none;
+    transition: 0.5s;
+}
+.box:hover:before {
+    transform: translateY(-60px);
+    opacity: 1;
+}
+.box:after {
+    content: '';
+    position: absolute;
+    bottom: 20px;
+    left: 40px;
+    width: 80px;
+    height: 80px;
+    background: url("https://cdn-icons-png.flaticon.com/512/25/25418.png");
+    background-size: cover;
+    opacity: 0.05;
+    pointer-events: none;
+    transition: 0.5s;
+    transform: rotate(180deg) translateY(0px);
+}
+.box:hover:after {
+    transform: rotate(180deg) translateY(-60px);
+    opacity: 1;
+}
+
+.star-color {
+    color: gold;
+}
+@media only screen and (max-width: 672px){
+    .box .imgBox {
+        left: 25%;
+    }
+}
